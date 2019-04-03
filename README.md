@@ -1,0 +1,1 @@
+# Storyblok Translation Swap
